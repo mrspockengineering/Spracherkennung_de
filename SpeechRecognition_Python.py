@@ -1,6 +1,7 @@
 '''
 Created on 17.11.2019
-https://www.youtube.com/watch?v=OmqgTZheIQc
+
+Öffne Website per Spracherkennung: "Öffne Seite www.tagesschau.de"
 
 @author: Erazer
 '''
